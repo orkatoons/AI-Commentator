@@ -1,0 +1,27 @@
+00:00:00 - Qualifying results: (P1) Jim Burton (Unknown), (P2) David Friedhoff (Unknown), (P3) agustin zamora (Unknown), (P4) Marcus Empezet (Unknown), (P5) Kévin MOUTOU | FF Crew (Unknown), (P6) Paul Da Numpty (Unknown), (P7) Thomas Richter | SC (Unknown), (P8) Lucas Melo (Unknown), (P9) GARY Orneau (Unknown), (P10) Fraser MacIain (Unknown), (P11) Stefano Mattei (Unknown), (P12) Justin Sletcher (Unknown), (P13) Daniel Born (Unknown), (P14) Sebastian Stockbridge (Unknown), (P15) Rainer Caspers (Unknown), (P16) Marc Allemann (Unknown), (P17) Mattias Kõrge (Unknown), (P18) Pascal LAUNAY (Unknown), (P19) Matthias Möllmann (Unknown), (P20) Rob Thornton (Unknown)
+00:00:00 - The Race Begins! Commentate in 34 words.
+00:00:17 - Overtake! David Friedhoff overtook Jim Burton for position 1. Commentate in 8 words.
+00:00:21 - Overtake! Daniel Born overtook Marc Allemann for position 15. Commentate in 22 words.
+00:00:32 - Overtake! Daniel Born overtook Stefano Mattei for position 12.
+00:00:32 - Accident involving: Stefano Mattei Commentate in 50 words.
+00:00:57 - Overtake! agustin zamora overtook Jim Burton for position 2. Commentate in 6 words.
+00:01:00 - Overtake! Jim Burton overtook agustin zamora for position 2. Commentate in 50 words.
+00:01:25 - Accident involving: Fraser MacIain, Sebastian Stockbridge Commentate in 88 words.
+00:02:09 - Overtake! Daniel Born overtook Lucas Melo for position 11. Commentate in 80 words.
+00:02:49 - Overtake! Paul Da Numpty overtook Marcus Empezet for position 4. Commentate in 80 words.
+00:03:29 - Overtake! Daniel Born overtook Justin Sletcher for position 10. Commentate in 62 words.
+00:04:00 - Current positions: (P1) David Friedhoff, (P2) Jim Burton, (P3) agustin zamora, (P4) Paul Da Numpty, (P5) Marcus Empezet, (P6) Kévin MOUTOU | FF Crew, (P7) Thomas Richter | SC, (P8) Fraser MacIain, (P9) Sebastian Stockbridge, (P10) Daniel Born, (P11) Justin Sletcher, (P12) Pascal LAUNAY, (P13) Lucas Melo, (P14) GARY Orneau, (P15) Rainer Caspers, (P16) Rob Thornton, (P17) Stefano Mattei, (P18) Matthias Möllmann, (P19) Marc Allemann, (P20) Mattias Kõrge Commentate in 394 words.
+00:07:17 - Overtake! Daniel Born overtook Sebastian Stockbridge for position 9. Commentate in 86 words.
+00:08:00 - Current positions: (P1) David Friedhoff, (P2) Jim Burton, (P3) agustin zamora, (P4) Paul Da Numpty, (P5) Marcus Empezet, (P6) Kévin MOUTOU | FF Crew, (P7) Thomas Richter | SC, (P8) Fraser MacIain, (P9) Daniel Born, (P10) Sebastian Stockbridge, (P11) Justin Sletcher, (P12) Lucas Melo, (P13) GARY Orneau, (P14) Rainer Caspers, (P15) Pascal LAUNAY, (P16) Rob Thornton, (P17) Matthias Möllmann, (P18) Marc Allemann, (P19) Mattias Kõrge, (P20) Stefano Mattei Commentate in 482 words.
+00:12:01 - Current positions: (P1) David Friedhoff, (P2) Jim Burton, (P3) agustin zamora, (P4) Paul Da Numpty, (P5) Marcus Empezet, (P6) Kévin MOUTOU | FF Crew, (P7) Fraser MacIain, (P8) Daniel Born, (P9) Justin Sletcher, (P10) Sebastian Stockbridge, (P11) GARY Orneau, (P12) Rainer Caspers, (P13) Lucas Melo, (P14) Pascal LAUNAY, (P15) Mattias Kõrge, (P16) Marc Allemann, (P17) Matthias Möllmann, (P18) Rob Thornton, (P19) Stefano Mattei, (P20) Thomas Richter | SC Commentate in 40 words.
+00:12:21 - Overtake! agustin zamora overtook Jim Burton for position 2. Commentate in 176 words.
+00:13:49 - Overtake! Daniel Born overtook Fraser MacIain for position 8. Commentate in 264 words.
+00:16:01 - Current positions: (P1) David Friedhoff, (P2) agustin zamora, (P3) Jim Burton, (P4) Paul Da Numpty, (P5) Kévin MOUTOU | FF Crew, (P6) Marcus Empezet, (P7) Thomas Richter | SC, (P8) Daniel Born, (P9) Fraser MacIain, (P10) Justin Sletcher, (P11) Sebastian Stockbridge, (P12) Rainer Caspers, (P13) GARY Orneau, (P14) Lucas Melo, (P15) Pascal LAUNAY, (P16) Mattias Kõrge, (P17) Marc Allemann, (P18) Matthias Möllmann, (P19) Rob Thornton, (P20) Stefano Mattei Commentate in 24 words.
+00:16:13 - Overtake! Fraser MacIain overtook Daniel Born for position 8. Commentate in 456 words.
+00:20:01 - Current positions: (P1) David Friedhoff, (P2) agustin zamora, (P3) Jim Burton, (P4) Paul Da Numpty, (P5) Kévin MOUTOU | FF Crew, (P6) Marcus Empezet, (P7) Thomas Richter | SC, (P8) Fraser MacIain, (P9) Daniel Born, (P10) Sebastian Stockbridge, (P11) Justin Sletcher, (P12) GARY Orneau, (P13) Rainer Caspers, (P14) Lucas Melo, (P15) Pascal LAUNAY, (P16) Mattias Kõrge, (P17) Marc Allemann, (P18) Matthias Möllmann, (P19) Rob Thornton, (P20) Stefano Mattei Commentate in 224 words.
+00:21:53 - Accident involving: Paul Da Numpty, Jim Burton Commentate in 256 words.
+00:24:01 - Current positions: (P1) David Friedhoff, (P2) agustin zamora, (P3) Jim Burton, (P4) Paul Da Numpty, (P5) Thomas Richter | SC, (P6) Marcus Empezet, (P7) Kévin MOUTOU | FF Crew, (P8) Fraser MacIain, (P9) Daniel Born, (P10) Sebastian Stockbridge, (P11) Justin Sletcher, (P12) GARY Orneau, (P13) Rainer Caspers, (P14) Mattias Kõrge, (P15) Marc Allemann, (P16) Matthias Möllmann, (P17) Pascal LAUNAY, (P18) Lucas Melo, (P19) Rob Thornton, (P20) Stefano Mattei Commentate in 60 words.
+00:24:31 - Continue on the storyline. With the random event you have chosen, Commentate in 58 words.
+00:25:00 - Leader is on final lap Commentate in 4 words.
+00:25:02 - Checkered flag! David Friedhoff takes the win!
+00:25:02 - Daniel Born has finished in position 9.

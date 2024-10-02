@@ -1,0 +1,30 @@
+00:00:00 - This is a GT3 race at Donnnington Park. Split 2 of Low Fuel Motorsports Sprint Cup in Assetto Corsa Competizione. Qualifying Results: (P1) Gordon Hazak - McLaren, (P2) Jim Burton - Ferrari, (P3) Lance Vance - McLaren, (P4) Carlos Castillo - Ferrari, (P5) Michel Papyrdo - Porsche, (P6) Tony Puf - Porsche, (P7) Ivo Hoedjes - Ferrari, (P8) Stanley Westerveld - McLaren, (P9) Andrea Cutazzo - Ferrari, (P10) Riccardo Pasquini - Ferrari, (P11) Roberto Giorno - Ferrari, (P12) David Davies - Ford, (P13) Thomas Richter - Ford, (P14) Christian Wagner - BMW, (P15) Isak Reite - Lamborghini, (P16) Paul Da Numpty - Lamborghini, (P17) Mark Warmington - McLaren, (P18) Daniel Reite - Unknown, (P19) Florentino Nieto - Ferrari, (P20) Daniel Born - Ferrari, (P21) Rainer Caspers - McLaren, (P22) Fraser Maciain - Ford, (P23) Carlos Costa - BMW, (P24) Mark Hamilton - Ferrari, (P25) Flavio Pampin - Ford, (P26) Ian Wally - BMW, (P27) Tazzy Jon - McLaren. Daniel Born is excited to be out of rookies. To celebrate a rival team hired a masseuse. Commentate in 120 words.
+00:00:00 - The Race Begins! Commentate in 36 words.
+00:00:18 - Overtake! Daniel Born overtook Riccardo Pasquini after Pasquini collided with Gurino for position 18.
+00:00:25 - Overtake! Ivo Hoedjes overtook Tony PuF for position 5. Commentate in 8 words.
+00:00:29 - Accident involving: Lance Vance Commentate in 8 words. Commentate in 34 words.
+00:00:33 - Accident involving: Andrea Cutazzo, Stanley Westerveld Commentate in 34 words.
+00:00:50 - Overtake! Daniel Born overtook Isak Reite for position 17. Commentate in 6 words.
+00:00:53 - Overtake! Isak Reite overtook Daniel Born for position 17. Commentate in 42 words.
+00:01:14 - Overtake! Daniel Born overtook Daniel Reite for position 17. Commentate in 48 words.
+00:01:38 - Overtake! Flavio Pampin overtook Fraser MacIain for position 20. Commentate in 48 words.
+00:02:02 - Overtake! Christian Wagner overtook Roberto Gurino for position 8. Progress the storyline. Be less repetitive. Commentate in 112 words.
+00:02:58 - ACCIDENT and overtake! Florentino Nieto, Daniel Born. Daniel Born drops positions! Commentate in 24 words.
+00:03:10 - Overtake! Carlos Costa overtook Daniel Born for position 22. Commentate in 8 words.
+00:03:14 - Accident involving: Isak Reite, Florentino Nieto Commentate in 80 words.
+00:03:54 - Progress the storyline! With a radio message, Commentate in 12 words.
+00:04:00 - Current positions: (P1) Gordon Hazak, (P2) Jim Burton, (P3) Carlos Castillo, (P4) Lance Vance, (P5) Ivo Hoedjes, (P6) Michel Papyfido | NRT, (P7) Andrea Cutazzo, (P8) Roberto Gurino, (P9) Stanley Westerveld, (P10) Christian Wagner, (P11) Paul Da Numpty, (P12) David Davies, (P13) Mark Warmington, (P14) Thomas Richter | SC, (P15) Florentino Nieto, (P16) Isak Reite, (P17) MARK HAMILTON, (P18) Tony PuF, (P19) Claudiao Oliver, (P20) Fraser MacIain, (P21) Tazzy Jon, (P22) Ian Wally, (P23) Carlos Costa, (P24) Daniel Born, (P25) Riccardo Pasquini, (P26) Rainer Caspers, (P27) Flavio Pampin, (P28) Daniel Reite Commentate in 52 words.
+00:08:58 - Overtake! Riccardo Pasquini overtook Carlos Costa for position 23. Commentate in 200 words.
+00:10:38 - ACCIDENT and overtake! Involving Daniel Born and Ian Wally. Ian Wally drops positions! Commentate in 40 words.
+00:10:58 - Overtake! Daniel Born overtook Ian Wally for position 23. Progress the storyline. Be less repetitive. Commentate in 120 words.
+00:11:58 - Overtake! Daniel Born overtook Carlos Costa for position 21. Commentate in 16 words.
+00:12:06 - ACCIDENT and overtake! Involving Daniel Born and Carlos Costa. Carlos Costa drops positions! Commentate in 16 words.
+00:12:14 - Overtake! Fraser MacIain overtook Daniel Born for position 26. Commentate in 144 words.
+00:13:26 - Overtake! Daniel Born overtook Carlos Costa for position 26. Commentate in 24 words.
+00:13:38 - Overtake! Daniel Born overtook Carlos Costa for position 26. Commentate in 152 words.
+00:14:54 - Progress the storyline! With a team update, Commentate in 132 words.
+00:16:00 - Current positions: (P1) Gordon Hazak, (P2) Jim Burton, (P3) Lance Vance, (P4) Carlos Castillo, (P5) Ivo Hoedjes, (P6) Michel Papyfido | NRT, (P7) Andrea Cutazzo, (P8) Stanley Westerveld, (P9) Roberto Gurino, (P10) Christian Wagner, (P11) Thomas Richter | SC, (P12) Paul Da Numpty, (P13) Florentino Nieto, (P14) Mark Warmington, (P15) MARK HAMILTON, (P16) Tony PuF, (P17) Tazzy Jon, (P18) Riccardo Pasquini, (P19) Flavio Pampin, (P20) Rainer Caspers, (P21) Daniel Reite, (P22) Claudiao Oliver, (P23) Isak Reite, (P24) Fraser MacIain, (P25) Daniel Born, (P26) Carlos Costa, (P27) Ian Wally, (P28) David Davies Commentate in 164 words.
+00:25:06 - Overtake! Daniel Born overtook Isak Reite for position 23. Commentate in 32 words.
+00:25:22 - Overtake! Daniel Born overtook Isak Reite for position 23. Commentate in 56 words.
+00:25:50 - Overtake! Fraser MacIain overtook Daniel Born for position 22. Commentate in 60 words.
+00:26:20 - Checkered flag! Gordon Hazak takes the win! Daniel Born has finished in position 23. Commentate in 50 words.

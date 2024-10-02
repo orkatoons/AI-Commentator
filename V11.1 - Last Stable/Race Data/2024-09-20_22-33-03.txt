@@ -1,0 +1,137 @@
+Race data collection started at: 2024-09-20 22:33:03.472192
+
+00:00:00 - Qualifying results: (P1) Jim Burton (Unknown), (P2) David Friedhoff (Unknown), (P3) agustin zamora (Unknown), (P4) Marcus Empezet (Unknown), (P5) Kévin MOUTOU | FF Crew (Unknown), (P6) Paul Da Numpty (Unknown), (P7) Thomas Richter | SC (Unknown), (P8) Lucas Melo (Unknown), (P9) GARY Orneau (Unknown), (P10) Fraser MacIain (Unknown), (P11) Stefano Mattei (Unknown), (P12) Justin Sletcher (Unknown), (P13) Daniel Born (Unknown), (P14) Sebastian Stockbridge (Unknown), (P15) Rainer Caspers (Unknown), (P16) Marc Allemann (Unknown), (P17) Mattias Kõrge (Unknown), (P18) Pascal LAUNAY (Unknown), (P19) Matthias Möllmann (Unknown), (P20) Rob Thornton (Unknown)
+00:00:00 - Rainer Caspers has entered the pits.
+00:00:00 - The Race Begins!
+00:00:17 - Overtake! David Friedhoff overtook Jim Burton for position 1.
+00:00:17 - Overtake! Thomas Richter | SC overtook Justin Sletcher for position 8.
+00:00:18 - Rainer Caspers has exited the pits.
+00:00:21 - Overtake! Thomas Richter | SC overtook Lucas Melo for position 7.
+00:00:21 - Overtake! Daniel Born overtook Marc Allemann for position 15.
+00:00:24 - Overtake! Sebastian Stockbridge overtook GARY Orneau for position 11.
+00:00:28 - Overtake! Marc Allemann overtook GARY Orneau for position 15.
+00:00:28 - Overtake! Rob Thornton overtook Pascal LAUNAY for position 18.
+00:00:32 - Overtake! Daniel Born overtook Stefano Mattei for position 12.
+00:00:32 - Overtake! Pascal LAUNAY overtook Mattias Kõrge for position 14.
+00:00:32 - Overtake! Rob Thornton overtook GARY Orneau for position 17.
+00:00:32 - Accident involving: Stefano Mattei
+00:00:32 - Accident involving: Mattias Kõrge
+00:00:32 - Accident involving: Matthias Möllmann
+00:00:36 - Overtake! Paul Da Numpty overtook Kévin MOUTOU | FF Crew for position 5.
+00:00:36 - Overtake! Pascal LAUNAY overtook Stefano Mattei for position 13.
+00:00:36 - Overtake! Rob Thornton overtook Mattias Kõrge for position 15.
+00:00:36 - Accident involving: GARY Orneau
+00:00:41 - Overtake! Rob Thornton overtook Stefano Mattei for position 14.
+00:00:41 - Overtake! Marc Allemann overtook Mattias Kõrge for position 16.
+00:00:41 - Overtake! Rainer Caspers overtook Matthias Möllmann for position 19.
+00:00:57 - Overtake! agustin zamora overtook Jim Burton for position 2.
+00:00:57 - Overtake! Lucas Melo overtook Thomas Richter | SC for position 7.
+00:01:00 - Overtake! Jim Burton overtook agustin zamora for position 2.
+00:01:08 - Overtake! Thomas Richter | SC overtook Lucas Melo for position 7.
+00:01:08 - Overtake! Fraser MacIain overtook Justin Sletcher for position 9.
+00:01:13 - Overtake! Sebastian Stockbridge overtook Justin Sletcher for position 10.
+00:01:17 - Overtake! Lucas Melo overtook Thomas Richter | SC for position 7.
+00:01:17 - Overtake! Sebastian Stockbridge overtook Fraser MacIain for position 9.
+00:01:17 - Overtake! Stefano Mattei overtook Rob Thornton for position 14.
+00:01:25 - Accident involving: Fraser MacIain, Sebastian Stockbridge
+00:01:28 - Overtake! Fraser MacIain overtook Sebastian Stockbridge for position 9.
+00:01:28 - Accident involving: Justin Sletcher
+00:01:32 - Overtake! Thomas Richter | SC overtook Lucas Melo for position 7.
+00:01:32 - Overtake! Sebastian Stockbridge overtook Fraser MacIain for position 9.
+00:01:37 - Overtake! Justin Sletcher overtook Fraser MacIain for position 10.
+00:01:41 - Overtake! Lucas Melo overtook Thomas Richter | SC for position 7.
+00:01:41 - Overtake! Fraser MacIain overtook Justin Sletcher for position 10.
+00:01:45 - Overtake! Thomas Richter | SC overtook Lucas Melo for position 7.
+00:01:49 - Overtake! Lucas Melo overtook Thomas Richter | SC for position 7.
+00:02:05 - Overtake! Fraser MacIain overtook Lucas Melo for position 9.
+00:02:09 - Overtake! Daniel Born overtook Lucas Melo for position 11.
+00:02:13 - Overtake! Pascal LAUNAY overtook Lucas Melo for position 12.
+00:02:13 - Overtake! GARY Orneau overtook Marc Allemann for position 15.
+00:02:17 - Overtake! Rainer Caspers overtook Stefano Mattei for position 16.
+00:02:17 - Accident involving: Mattias Kõrge
+00:02:17 - Accident involving: Marc Allemann
+00:02:21 - Overtake! Matthias Möllmann overtook Marc Allemann for position 18.
+00:02:49 - Overtake! Paul Da Numpty overtook Marcus Empezet for position 4.
+00:02:49 - Overtake! Fraser MacIain overtook Sebastian Stockbridge for position 8.
+00:03:17 - Overtake! Kévin MOUTOU | FF Crew overtook Marcus Empezet for position 5.
+00:03:29 - Overtake! Daniel Born overtook Justin Sletcher for position 10.
+00:03:53 - Overtake! Marcus Empezet overtook Kévin MOUTOU | FF Crew for position 5.
+00:03:57 - Overtake! Thomas Richter | SC overtook Kévin MOUTOU | FF Crew for position 6.
+00:04:00 - Current positions: (P1) David Friedhoff, (P2) Jim Burton, (P3) agustin zamora, (P4) Paul Da Numpty, (P5) Marcus Empezet, (P6) Kévin MOUTOU | FF Crew, (P7) Thomas Richter | SC, (P8) Fraser MacIain, (P9) Sebastian Stockbridge, (P10) Daniel Born, (P11) Justin Sletcher, (P12) Pascal LAUNAY, (P13) Lucas Melo, (P14) GARY Orneau, (P15) Rainer Caspers, (P16) Rob Thornton, (P17) Stefano Mattei, (P18) Matthias Möllmann, (P19) Marc Allemann, (P20) Mattias Kõrge
+00:04:00 - Overtake! Kévin MOUTOU | FF Crew overtook Thomas Richter | SC for position 6.
+00:04:00 - Overtake! Rainer Caspers overtook Rob Thornton for position 15.
+00:04:21 - Overtake! Lucas Melo overtook Pascal LAUNAY for position 12.
+00:04:29 - Overtake! Stefano Mattei overtook Rob Thornton for position 16.
+00:04:53 - Overtake! Mattias Kõrge overtook Rob Thornton for position 19.
+00:04:57 - Overtake! Rob Thornton overtook Matthias Möllmann for position 17.
+00:06:33 - Overtake! GARY Orneau overtook Pascal LAUNAY for position 13.
+00:06:37 - Overtake! Rainer Caspers overtook Pascal LAUNAY for position 14.
+00:06:48 - Overtake! Rob Thornton overtook Stefano Mattei for position 16.
+00:06:52 - Overtake! Matthias Möllmann overtook Stefano Mattei for position 17.
+00:06:57 - Overtake! Mattias Kõrge overtook Stefano Mattei for position 19.
+00:07:17 - Overtake! Daniel Born overtook Sebastian Stockbridge for position 9.
+00:08:00 - Current positions: (P1) David Friedhoff, (P2) Jim Burton, (P3) agustin zamora, (P4) Paul Da Numpty, (P5) Marcus Empezet, (P6) Kévin MOUTOU | FF Crew, (P7) Thomas Richter | SC, (P8) Fraser MacIain, (P9) Daniel Born, (P10) Sebastian Stockbridge, (P11) Justin Sletcher, (P12) Lucas Melo, (P13) GARY Orneau, (P14) Rainer Caspers, (P15) Pascal LAUNAY, (P16) Rob Thornton, (P17) Matthias Möllmann, (P18) Marc Allemann, (P19) Mattias Kõrge, (P20) Stefano Mattei
+00:08:09 - Overtake! Justin Sletcher overtook Sebastian Stockbridge for position 10.
+00:09:09 - Overtake! Matthias Möllmann overtook Rob Thornton for position 16.
+00:09:13 - Overtake! Mattias Kõrge overtook Rob Thornton for position 18.
+00:10:09 - Overtake! GARY Orneau overtook Lucas Melo for position 12.
+00:10:13 - Overtake! Rainer Caspers overtook Lucas Melo for position 13.
+00:10:13 - Overtake! Mattias Kõrge overtook Matthias Möllmann for position 17.
+00:10:37 - Overtake! Mattias Kõrge overtook Marc Allemann for position 16.
+00:10:49 - Overtake! Stefano Mattei overtook Lucas Melo for position 19.
+00:10:53 - Overtake! Lucas Melo overtook Pascal LAUNAY for position 14.
+00:12:01 - Current positions: (P1) David Friedhoff, (P2) Jim Burton, (P3) agustin zamora, (P4) Paul Da Numpty, (P5) Marcus Empezet, (P6) Kévin MOUTOU | FF Crew, (P7) Fraser MacIain, (P8) Daniel Born, (P9) Justin Sletcher, (P10) Sebastian Stockbridge, (P11) GARY Orneau, (P12) Rainer Caspers, (P13) Lucas Melo, (P14) Pascal LAUNAY, (P15) Mattias Kõrge, (P16) Marc Allemann, (P17) Matthias Möllmann, (P18) Rob Thornton, (P19) Stefano Mattei, (P20) Thomas Richter | SC
+00:12:21 - Overtake! agustin zamora overtook Jim Burton for position 2.
+00:13:18 - Stefano Mattei has entered the pits.
+00:13:21 - Overtake! Kévin MOUTOU | FF Crew overtook Marcus Empezet for position 5.
+00:13:49 - Overtake! Daniel Born overtook Fraser MacIain for position 8.
+00:14:01 - Overtake! Mattias Kõrge overtook Marc Allemann for position 16.
+00:14:17 - Overtake! Rainer Caspers overtook GARY Orneau for position 12.
+00:16:01 - Current positions: (P1) David Friedhoff, (P2) agustin zamora, (P3) Jim Burton, (P4) Paul Da Numpty, (P5) Kévin MOUTOU | FF Crew, (P6) Marcus Empezet, (P7) Thomas Richter | SC, (P8) Daniel Born, (P9) Fraser MacIain, (P10) Justin Sletcher, (P11) Sebastian Stockbridge, (P12) Rainer Caspers, (P13) GARY Orneau, (P14) Lucas Melo, (P15) Pascal LAUNAY, (P16) Mattias Kõrge, (P17) Marc Allemann, (P18) Matthias Möllmann, (P19) Rob Thornton, (P20) Stefano Mattei
+00:16:13 - Overtake! Fraser MacIain overtook Daniel Born for position 8.
+00:16:21 - Overtake! GARY Orneau overtook Rainer Caspers for position 12.
+00:16:25 - Overtake! Rainer Caspers overtook GARY Orneau for position 12.
+00:16:53 - Overtake! Rob Thornton overtook Pascal LAUNAY for position 18.
+00:16:57 - Overtake! Pascal LAUNAY overtook Mattias Kõrge for position 15.
+00:17:01 - Overtake! Rob Thornton overtook Matthias Möllmann for position 18.
+00:17:05 - Overtake! GARY Orneau overtook Rainer Caspers for position 12.
+00:17:05 - Overtake! Matthias Möllmann overtook Rob Thornton for position 18.
+00:17:37 - Stefano Mattei has exited the pits.
+00:18:37 - Overtake! Sebastian Stockbridge overtook Justin Sletcher for position 10.
+00:19:37 - Overtake! Rob Thornton overtook Sebastian Stockbridge for position 18.
+00:19:41 - Overtake! Sebastian Stockbridge overtook Justin Sletcher for position 10.
+00:20:01 - Current positions: (P1) David Friedhoff, (P2) agustin zamora, (P3) Jim Burton, (P4) Paul Da Numpty, (P5) Kévin MOUTOU | FF Crew, (P6) Marcus Empezet, (P7) Thomas Richter | SC, (P8) Fraser MacIain, (P9) Daniel Born, (P10) Sebastian Stockbridge, (P11) Justin Sletcher, (P12) GARY Orneau, (P13) Rainer Caspers, (P14) Lucas Melo, (P15) Pascal LAUNAY, (P16) Mattias Kõrge, (P17) Marc Allemann, (P18) Matthias Möllmann, (P19) Rob Thornton, (P20) Stefano Mattei
+00:20:25 - Overtake! Mattias Kõrge overtook Pascal LAUNAY for position 14.
+00:20:29 - Overtake! Marc Allemann overtook Pascal LAUNAY for position 15.
+00:20:37 - Overtake! Matthias Möllmann overtook Lucas Melo for position 16.
+00:21:53 - Accident involving: Paul Da Numpty, Jim Burton
+00:22:01 - Overtake! Thomas Richter | SC overtook Kévin MOUTOU | FF Crew for position 5.
+00:22:17 - Overtake! Marcus Empezet overtook Kévin MOUTOU | FF Crew for position 6.
+00:22:29 - Overtake! Pascal LAUNAY overtook Lucas Melo for position 17.
+00:22:37 - Overtake! Rob Thornton overtook Sebastian Stockbridge for position 18.
+00:22:41 - Overtake! Sebastian Stockbridge overtook Justin Sletcher for position 10.
+00:23:29 - Rob Thornton has entered the pits.
+00:23:33 - Rob Thornton has exited the pits.
+00:24:01 - Current positions: (P1) David Friedhoff, (P2) agustin zamora, (P3) Jim Burton, (P4) Paul Da Numpty, (P5) Thomas Richter | SC, (P6) Marcus Empezet, (P7) Kévin MOUTOU | FF Crew, (P8) Fraser MacIain, (P9) Daniel Born, (P10) Sebastian Stockbridge, (P11) Justin Sletcher, (P12) GARY Orneau, (P13) Rainer Caspers, (P14) Mattias Kõrge, (P15) Marc Allemann, (P16) Matthias Möllmann, (P17) Pascal LAUNAY, (P18) Lucas Melo, (P19) Rob Thornton, (P20) Stefano Mattei
+00:25:00 - Leader is on final lap
+00:25:02 - Checkered flag! David Friedhoff takes the win!
+00:25:02 - David Friedhoff has finished in position 1.
+00:25:02 - agustin zamora has finished in position 2.
+00:25:02 - Jim Burton has finished in position 3.
+00:25:02 - Paul Da Numpty has finished in position 4.
+00:25:02 - Thomas Richter | SC has finished in position 5.
+00:25:02 - Marcus Empezet has finished in position 6.
+00:25:02 - Kévin MOUTOU | FF Crew has finished in position 7.
+00:25:02 - Fraser MacIain has finished in position 8.
+00:25:02 - Daniel Born has finished in position 9.
+00:25:02 - Sebastian Stockbridge has finished in position 10.
+00:25:02 - Justin Sletcher has finished in position 11.
+00:25:02 - GARY Orneau has finished in position 12.
+00:25:02 - Rainer Caspers has finished in position 13.
+00:25:02 - Mattias Kõrge has finished in position 14.
+00:25:02 - Marc Allemann has finished in position 15.
+00:25:02 - Matthias Möllmann has finished in position 16.
+00:25:02 - Pascal LAUNAY has finished in position 17.
+00:25:02 - Lucas Melo has finished in position 18.
+00:25:02 - Rob Thornton has finished in position 19.
+00:25:02 - Stefano Mattei has finished in position 20.

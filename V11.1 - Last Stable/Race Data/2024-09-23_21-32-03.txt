@@ -1,0 +1,157 @@
+Race data collection started at: 2024-09-23 21:32:03.079633
+
+00:00:00 - The Race Begins!
+00:00:17 - Overtake! Loong Yoong overtook PIN SOUT for position 2.
+00:00:17 - Overtake! Sergey Kurganov overtook Agamemnon Varonos for position 18.
+00:00:21 - Overtake! Tazzy Jon overtook Agamemnon Varonos for position 23.
+00:00:29 - Overtake! Steve Rechenberg | NOR overtook Rudolf Kraus for position 4.
+00:00:37 - Overtake! Juan P. Montya overtook Stefano Mattei for position 6.
+00:00:37 - Overtake! Pat Zins overtook Martin LEONARDI for position 11.
+00:00:41 - Overtake! Martin LEONARDI overtook Pat Zins for position 11.
+00:00:50 - Overtake! PIN SOUT overtook Andreas Wohlert | ASH for position 2.
+00:00:50 - Accident involving: Manuel Tiranno
+00:00:53 - Overtake! Steve Rechenberg | NOR overtook Andreas Wohlert | ASH for position 3.
+00:00:53 - Overtake! Hein Gremels overtook Ephraim Sophia for position 14.
+00:00:53 - Accident involving: Ephraim Sophia
+00:00:57 - Overtake! Paul Rimmer overtook Michael Smuda for position 8.
+00:00:57 - Overtake! Manuel Tiranno overtook Ephraim Sophia for position 15.
+00:00:57 - Overtake! Tazzy Jon overtook Mehdi De Visch for position 22.
+00:00:57 - Accident involving: James Rowden
+00:01:01 - Overtake! Michael Smuda overtook Paul Rimmer for position 8.
+00:01:09 - Overtake! Paul Rimmer overtook Michael Smuda for position 8.
+00:01:09 - Overtake! Martin LEONARDI overtook Marc Allemann for position 10.
+00:01:53 - Overtake! Agamemnon Varonos overtook Rudolf Kraus for position 23.
+00:01:57 - Overtake! Rudolf Kraus overtook Juan P. Montya for position 5.
+00:02:01 - Overtake! James Rowden overtook Hein Gremels for position 13.
+00:02:05 - Agamemnon Varonos has entered the pits.
+00:02:25 - Overtake! Rudolf Kraus overtook Steve Rechenberg | NOR for position 4.
+00:02:29 - Overtake! Michael Smuda overtook Paul Rimmer for position 8.
+00:02:33 - Overtake! Andreas Wohlert | ASH overtook PIN SOUT for position 2.
+00:02:33 - Overtake! Mikhail Anokha overtook Diego Speranzini for position 19.
+00:02:45 - Overtake! Diego Speranzini overtook Sergey Kurganov for position 19.
+00:02:53 - Overtake! Pat Zins overtook Marc Allemann for position 11.
+00:02:57 - Overtake! James Rowden overtook Marc Allemann for position 12.
+00:03:09 - Overtake! Tazzy Jon overtook Bryan Herphelin for position 21.
+00:03:17 - Accident involving: Steve Rechenberg | NOR, Juan P. Montya
+00:03:28 - Agamemnon Varonos has exited the pits.
+00:03:49 - Overtake! Ephraim Sophia overtook Manuel Tiranno for position 15.
+00:03:57 - Overtake! Agamemnon Varonos overtook Mehdi De Visch for position 23.
+00:04:00 - Current positions: (P1) Loong Yoong, (P2) Andreas Wohlert | ASH, (P3) PIN SOUT, (P4) Rudolf Kraus, (P5) Steve Rechenberg | NOR, (P6) Juan P. Montya, (P7) Stefano Mattei, (P8) Michael Smuda, (P9) Paul Rimmer, (P10) Martin LEONARDI, (P11) Pat Zins, (P12) James Rowden, (P13) Marc Allemann, (P14) Hein Gremels, (P15) Ephraim Sophia, (P16) Manuel Tiranno, (P17) Daniel Born, (P18) Mikhail Anokha, (P19) Diego Speranzini, (P20) Sergey Kurganov, (P21) Tazzy Jon, (P22) Bryan Herphelin, (P23) Mehdi De Visch, (P24) Agamemnon Varonos
+00:04:01 - Overtake! Mehdi De Visch overtook Agamemnon Varonos for position 23.
+00:04:05 - Overtake! Hein Gremels overtook James Rowden for position 13.
+00:04:09 - Overtake! Hein Gremels overtook Marc Allemann for position 12.
+00:04:09 - Overtake! Daniel Born overtook Manuel Tiranno for position 14.
+00:04:09 - Overtake! Manuel Tiranno overtook Ephraim Sophia for position 15.
+00:04:09 - Accident involving: Marc Allemann, James Rowden
+00:04:13 - Overtake! Mikhail Anokha overtook Manuel Tiranno for position 15.
+00:04:13 - Overtake! Diego Speranzini overtook Ephraim Sophia for position 17.
+00:04:13 - Overtake! Sergey Kurganov overtook James Rowden for position 19.
+00:04:14 - Ephraim Sophia has entered the pits.
+00:04:17 - Overtake! Pat Zins overtook Martin LEONARDI for position 10.
+00:04:17 - Overtake! Diego Speranzini overtook Manuel Tiranno for position 16.
+00:04:17 - Overtake! Mehdi De Visch overtook James Rowden for position 21.
+00:04:22 - Overtake! Sergey Kurganov overtook Manuel Tiranno for position 17.
+00:04:26 - Overtake! Tazzy Jon overtook Manuel Tiranno for position 18.
+00:04:34 - James Rowden has entered the pits.
+00:04:37 - Overtake! Daniel Born overtook Marc Allemann for position 13.
+00:04:49 - Overtake! Paul Rimmer overtook Michael Smuda for position 8.
+00:04:49 - Overtake! Tazzy Jon overtook Sergey Kurganov for position 17.
+00:04:54 - Overtake! Manuel Tiranno overtook Tazzy Jon for position 17.
+00:05:01 - Overtake! Sergey Kurganov overtook Tazzy Jon for position 18.
+00:05:01 - Accident involving: Tazzy Jon, Sergey Kurganov
+00:05:05 - Overtake! Bryan Herphelin overtook Tazzy Jon for position 19.
+00:05:29 - Overtake! Mehdi De Visch overtook Tazzy Jon for position 20.
+00:05:37 - Marc Allemann has entered the pits.
+00:05:42 - Marc Allemann has exited the pits.
+00:05:49 - Overtake! Sergey Kurganov overtook Bryan Herphelin for position 17.
+00:05:53 - Overtake! Tazzy Jon overtook Marc Allemann for position 20.
+00:06:25 - Accident involving: Martin LEONARDI, Pat Zins
+00:06:33 - Overtake! Tazzy Jon overtook Mehdi De Visch for position 19.
+00:07:05 - Overtake! Agamemnon Varonos overtook Marc Allemann for position 21.
+00:07:14 - Overtake! Marc Allemann overtook PIN SOUT for position 21.
+00:07:14 - Marc Allemann has entered the pits.
+00:07:18 - Overtake! PIN SOUT overtook Rudolf Kraus for position 3.
+00:07:53 - Ephraim Sophia has exited the pits.
+00:08:00 - Current positions: (P1) Loong Yoong, (P2) Andreas Wohlert | ASH, (P3) PIN SOUT, (P4) Rudolf Kraus, (P5) Steve Rechenberg | NOR, (P6) Juan P. Montya, (P7) Stefano Mattei, (P8) Paul Rimmer, (P9) Michael Smuda, (P10) Pat Zins, (P11) Martin LEONARDI, (P12) Hein Gremels, (P13) Daniel Born, (P14) Mikhail Anokha, (P15) Diego Speranzini, (P16) Manuel Tiranno, (P17) Sergey Kurganov, (P18) Bryan Herphelin, (P19) Tazzy Jon, (P20) Mehdi De Visch, (P21) Agamemnon Varonos, (P22) Marc Allemann, (P23) Ephraim Sophia, (P24) James Rowden
+00:08:01 - Overtake! Mikhail Anokha overtook Diego Speranzini for position 14.
+00:08:22 - Overtake! Tazzy Jon overtook Bryan Herphelin for position 18.
+00:08:41 - James Rowden has exited the pits.
+00:09:13 - Overtake! Agamemnon Varonos overtook Daniel Born for position 20.
+00:09:17 - Overtake! Daniel Born overtook Mikhail Anokha for position 13.
+00:09:38 - Overtake! Andreas Wohlert | ASH overtook Loong Yoong for position 1.
+00:11:58 - Overtake! Bryan Herphelin overtook Tazzy Jon for position 18.
+00:12:00 - Current positions: (P1) Andreas Wohlert | ASH, (P2) Loong Yoong, (P3) PIN SOUT, (P4) Rudolf Kraus, (P5) Steve Rechenberg | NOR, (P6) Juan P. Montya, (P7) Stefano Mattei, (P8) Paul Rimmer, (P9) Michael Smuda, (P10) Pat Zins, (P11) Martin LEONARDI, (P12) Hein Gremels, (P13) Daniel Born, (P14) Mikhail Anokha, (P15) Diego Speranzini, (P16) Manuel Tiranno, (P17) Sergey Kurganov, (P18) Bryan Herphelin, (P19) Tazzy Jon, (P20) Mehdi De Visch, (P21) Agamemnon Varonos, (P22) Ephraim Sophia, (P23) Marc Allemann, (P24) James Rowden
+00:12:02 - Overtake! Mehdi De Visch overtook Tazzy Jon for position 19.
+00:12:45 - Overtake! Agamemnon Varonos overtook Hein Gremels for position 20.
+00:12:49 - Overtake! Hein Gremels overtook Daniel Born for position 12.
+00:13:01 - Overtake! Manuel Tiranno overtook Diego Speranzini for position 15.
+00:13:01 - Overtake! Agamemnon Varonos overtook Sergey Kurganov for position 20.
+00:13:06 - Overtake! Sergey Kurganov overtook Bryan Herphelin for position 17.
+00:13:14 - Overtake! Tazzy Jon overtook Mehdi De Visch for position 19.
+00:13:22 - Overtake! Steve Rechenberg | NOR overtook Rudolf Kraus for position 4.
+00:13:22 - Overtake! Pat Zins overtook Michael Smuda for position 9.
+00:13:22 - Overtake! Mehdi De Visch overtook Tazzy Jon for position 19.
+00:13:25 - Overtake! Rudolf Kraus overtook Steve Rechenberg | NOR for position 4.
+00:13:25 - Overtake! Michael Smuda overtook Pat Zins for position 9.
+00:13:25 - Overtake! Tazzy Jon overtook Mehdi De Visch for position 19.
+00:15:06 - Overtake! Tazzy Jon overtook Bryan Herphelin for position 18.
+00:16:00 - Current positions: (P1) Andreas Wohlert | ASH, (P2) Loong Yoong, (P3) PIN SOUT, (P4) Rudolf Kraus, (P5) Steve Rechenberg | NOR, (P6) Juan P. Montya, (P7) Stefano Mattei, (P8) Paul Rimmer, (P9) Michael Smuda, (P10) Pat Zins, (P11) Martin LEONARDI, (P12) Hein Gremels, (P13) Daniel Born, (P14) Mikhail Anokha, (P15) Manuel Tiranno, (P16) Diego Speranzini, (P17) Sergey Kurganov, (P18) Tazzy Jon, (P19) Bryan Herphelin, (P20) Mehdi De Visch, (P21) Agamemnon Varonos, (P22) Ephraim Sophia, (P23) Marc Allemann, (P24) James Rowden
+00:16:06 - Overtake! Mehdi De Visch overtook Steve Rechenberg | NOR for position 19.
+00:16:10 - Overtake! Steve Rechenberg | NOR overtook Juan P. Montya for position 5.
+00:16:18 - Overtake! Stefano Mattei overtook Steve Rechenberg | NOR for position 6.
+00:16:21 - Overtake! Paul Rimmer overtook Steve Rechenberg | NOR for position 7.
+00:16:25 - Overtake! Pat Zins overtook Steve Rechenberg | NOR for position 9.
+00:16:25 - Overtake! Agamemnon Varonos overtook Daniel Born for position 20.
+00:16:29 - Overtake! Pat Zins overtook Michael Smuda for position 8.
+00:16:29 - Overtake! Martin LEONARDI overtook Steve Rechenberg | NOR for position 10.
+00:16:29 - Overtake! Daniel Born overtook Mikhail Anokha for position 13.
+00:16:30 - Steve Rechenberg | NOR has entered the pits.
+00:16:33 - Overtake! Martin LEONARDI overtook Michael Smuda for position 9.
+00:16:46 - Overtake! Agamemnon Varonos overtook Tazzy Jon for position 20.
+00:17:25 - Agamemnon Varonos has entered the pits.
+00:18:29 - Overtake! PIN SOUT overtook Loong Yoong for position 2.
+00:18:33 - Overtake! Juan P. Montya overtook Loong Yoong for position 4.
+00:18:37 - Overtake! Paul Rimmer overtook Loong Yoong for position 6.
+00:19:26 - Overtake! Pat Zins overtook Loong Yoong for position 7.
+00:19:30 - Overtake! Martin LEONARDI overtook Loong Yoong for position 8.
+00:19:48 - Loong Yoong has entered the pits.
+00:20:01 - Current positions: (P1) Andreas Wohlert | ASH, (P2) PIN SOUT, (P3) Rudolf Kraus, (P4) Juan P. Montya, (P5) Stefano Mattei, (P6) Paul Rimmer, (P7) Pat Zins, (P8) Martin LEONARDI, (P9) Michael Smuda, (P10) Hein Gremels, (P11) Daniel Born, (P12) Loong Yoong, (P13) Mikhail Anokha, (P14) Manuel Tiranno, (P15) Diego Speranzini, (P16) Sergey Kurganov, (P17) Tazzy Jon, (P18) Bryan Herphelin, (P19) Mehdi De Visch, (P20) Steve Rechenberg | NOR, (P21) Ephraim Sophia, (P22) Agamemnon Varonos, (P23) Marc Allemann, (P24) James Rowden
+00:20:06 - Overtake! Manuel Tiranno overtook Mikhail Anokha for position 12.
+00:20:09 - Steve Rechenberg | NOR has exited the pits.
+00:20:29 - Overtake! Diego Speranzini overtook Mikhail Anokha for position 13.
+00:21:01 - Overtake! Tazzy Jon overtook Sergey Kurganov for position 15.
+00:22:07 - Loong Yoong has exited the pits.
+00:22:53 - Overtake! Stefano Mattei overtook Juan P. Montya for position 4.
+00:23:17 - Overtake! Rudolf Kraus overtook PIN SOUT for position 2.
+00:23:42 - Overtake! Diego Speranzini overtook Manuel Tiranno for position 12.
+00:23:46 - Overtake! Juan P. Montya overtook Stefano Mattei for position 4.
+00:23:49 - Overtake! Paul Rimmer overtook Stefano Mattei for position 5.
+00:23:49 - Accident involving: Stefano Mattei
+00:23:53 - Overtake! Martin LEONARDI overtook Stefano Mattei for position 7.
+00:24:01 - Current positions: (P1) Andreas Wohlert | ASH, (P2) Rudolf Kraus, (P3) PIN SOUT, (P4) Juan P. Montya, (P5) Paul Rimmer, (P6) Pat Zins, (P7) Martin LEONARDI, (P8) Stefano Mattei, (P9) Michael Smuda, (P10) Hein Gremels, (P11) Daniel Born, (P12) Diego Speranzini, (P13) Manuel Tiranno, (P14) Mikhail Anokha, (P15) Tazzy Jon, (P16) Sergey Kurganov, (P17) Bryan Herphelin, (P18) Mehdi De Visch, (P19) Loong Yoong, (P20) Steve Rechenberg | NOR, (P21) Ephraim Sophia, (P22) Agamemnon Varonos, (P23) Marc Allemann, (P24) James Rowden
+00:25:00 - Leader is on final lap
+00:26:32 - Checkered flag! Andreas Wohlert | ASH takes the win!
+00:26:32 - Andreas Wohlert | ASH has finished in position 1.
+00:26:32 - Rudolf Kraus has finished in position 2.
+00:26:32 - PIN SOUT has finished in position 3.
+00:26:32 - Juan P. Montya has finished in position 4.
+00:26:32 - Paul Rimmer has finished in position 5.
+00:26:32 - Pat Zins has finished in position 6.
+00:26:32 - Martin LEONARDI has finished in position 7.
+00:26:32 - Stefano Mattei has finished in position 8.
+00:26:32 - Michael Smuda has finished in position 9.
+00:26:32 - Hein Gremels has finished in position 10.
+00:26:32 - Daniel Born has finished in position 11.
+00:26:32 - Diego Speranzini has finished in position 12.
+00:26:32 - Manuel Tiranno has finished in position 13.
+00:26:32 - Mikhail Anokha has finished in position 14.
+00:26:32 - Tazzy Jon has finished in position 15.
+00:26:32 - Sergey Kurganov has finished in position 16.
+00:26:32 - Bryan Herphelin has finished in position 17.
+00:26:32 - Mehdi De Visch has finished in position 18.
+00:26:32 - Loong Yoong has finished in position 19.
+00:26:32 - Steve Rechenberg | NOR has finished in position 20.
+00:26:32 - Ephraim Sophia has finished in position 21.
+00:26:32 - Agamemnon Varonos has finished in position 22.
+00:26:32 - Marc Allemann has finished in position 23.
+00:26:32 - James Rowden has finished in position 24.

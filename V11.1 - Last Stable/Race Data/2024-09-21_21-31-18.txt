@@ -1,0 +1,250 @@
+Race data collection started at: 2024-09-21 21:31:18.804636
+
+00:00:00 - Qualifying Results: (P1) Gordon Hazak - McLaren, (P2) Jim Burton - Ferrari, (P3) Lance Vance - McLaren, (P4) Carlos Castillo - Ferrari, (P5) Michel Papyrdo - Porsche, (P6) Tony Puf - Porsche, (P7) Ivo Hoedjes - Ferrari, (P8) Stanley Westerveld - McLaren, (P9) Andrea Cutazzo - Ferrari, (P10) Riccardo Pasquini - Ferrari, (P11) Roberto Giorno - Ferrari, (P12) David Davies - Ford, (P13) Thomas Richter - Ford, (P14) Christian Wagner - BMW, (P15) Isak Reite - Lamborghini, (P16) Paul Da Numpty - Lamborghini, (P17) Mark Warmington - McLaren, (P18) Daniel Reite - Unknown, (P19) Florentino Nieto - Ferrari, (P20) Daniel Born - Ferrari, (P21) Rainer Caspers - McLaren, (P22) Fraser Maciain - Ford, (P23) Carlos Costa - BMW, (P24) Mark Hamilton - Ferrari, (P25) Flavio Pampin - Ford, (P26) Ian Wally - BMW, (P27) Tazzy Jon - McLaren
+00:00:00 - Rainer Caspers has entered the pits.
+00:00:00 - The Race Begins!
+00:00:05 - Accident involving: Mark Warmington, Florentino Nieto
+00:00:17 - Rainer Caspers has exited the pits.
+00:00:18 - Overtake! Paul Da Numpty overtook David Davies for position 13.
+00:00:18 - Overtake! Daniel Born overtook Riccardo Pasquini for position 18.
+00:00:18 - Accident involving: Roberto Gurino, Riccardo Pasquini
+00:00:21 - Overtake! MARK HAMILTON overtook Riccardo Pasquini for position 20.
+00:00:25 - Overtake! Ivo Hoedjes overtook Tony PuF for position 5.
+00:00:25 - Overtake! Carlos Costa overtook Riccardo Pasquini for position 21.
+00:00:25 - Overtake! Flavio Pampin overtook Fraser MacIain for position 23.
+00:00:29 - Overtake! Christian Wagner overtook Stanley Westerveld for position 9.
+00:00:29 - Overtake! David Davies overtook Tony PuF for position 13.
+00:00:29 - Overtake! Florentino Nieto overtook Daniel Born for position 18.
+00:00:29 - Accident involving: Lance Vance
+00:00:33 - Overtake! Thomas Richter | SC overtook Stanley Westerveld for position 10.
+00:00:33 - Overtake! Florentino Nieto overtook Isak Reite for position 16.
+00:00:33 - Overtake! Fraser MacIain overtook Flavio Pampin for position 23.
+00:00:33 - Accident involving: Andrea Cutazzo, Stanley Westerveld
+00:00:38 - Overtake! MARK HAMILTON overtook Tony PuF for position 19.
+00:00:38 - Overtake! Flavio Pampin overtook Fraser MacIain for position 23.
+00:00:38 - Accident involving: Carlos Costa, Riccardo Pasquini
+00:00:42 - Overtake! Fraser MacIain overtook Flavio Pampin for position 23.
+00:00:50 - Overtake! Ivo Hoedjes overtook Lance Vance for position 4.
+00:00:50 - Overtake! David Davies overtook Paul Da Numpty for position 12.
+00:00:50 - Overtake! Florentino Nieto overtook Mark Warmington for position 14.
+00:00:50 - Overtake! Daniel Born overtook Isak Reite for position 17.
+00:00:50 - Overtake! Claudiao Oliver overtook Flavio Pampin for position 24.
+00:00:53 - Overtake! Lance Vance overtook Ivo Hoedjes for position 4.
+00:00:53 - Overtake! Paul Da Numpty overtook David Davies for position 12.
+00:00:53 - Overtake! Daniel Reite overtook Florentino Nieto for position 15.
+00:00:53 - Overtake! Isak Reite overtook Daniel Born for position 17.
+00:00:53 - Overtake! Flavio Pampin overtook Claudiao Oliver for position 24.
+00:00:53 - Accident involving: Carlos Costa
+00:00:57 - Overtake! Claudiao Oliver overtook Riccardo Pasquini for position 23.
+00:01:01 - Overtake! Ian Wally overtook Riccardo Pasquini for position 25.
+00:01:01 - Accident involving: Carlos Costa
+00:01:01 - Accident involving: Riccardo Pasquini
+00:01:06 - Overtake! Daniel Reite overtook Mark Warmington for position 14.
+00:01:10 - Overtake! Florentino Nieto overtook Daniel Reite for position 15.
+00:01:10 - Overtake! Carlos Costa overtook Riccardo Pasquini for position 26.
+00:01:10 - Accident involving: Roberto Gurino
+00:01:14 - Overtake! Daniel Born overtook Daniel Reite for position 17.
+00:01:18 - Overtake! MARK HAMILTON overtook Daniel Reite for position 18.
+00:01:25 - Overtake! Tony PuF overtook Daniel Reite for position 19.
+00:01:38 - Overtake! Flavio Pampin overtook Fraser MacIain for position 20.
+00:01:42 - Overtake! Ian Wally overtook Fraser MacIain for position 22.
+00:01:42 - Accident involving: Daniel Reite, Fraser MacIain
+00:01:46 - Overtake! Riccardo Pasquini overtook Daniel Reite for position 25.
+00:01:49 - Overtake! Rainer Caspers overtook Flavio Pampin for position 26.
+00:01:58 - Accident involving: Daniel Reite
+00:01:58 - Accident involving: Flavio Pampin
+00:02:02 - Overtake! Christian Wagner overtook Roberto Gurino for position 8.
+00:02:06 - Overtake! Stanley Westerveld overtook Thomas Richter | SC for position 10.
+00:02:10 - Overtake! Paul Da Numpty overtook Thomas Richter | SC for position 11.
+00:02:14 - Overtake! David Davies overtook Thomas Richter | SC for position 12.
+00:02:21 - Overtake! Roberto Gurino overtook Christian Wagner for position 8.
+00:02:26 - Overtake! Mark Warmington overtook Thomas Richter | SC for position 13.
+00:02:26 - Overtake! Fraser MacIain overtook Ian Wally for position 22.
+00:02:30 - Overtake! Stanley Westerveld overtook Christian Wagner for position 9.
+00:02:49 - Overtake! Isak Reite overtook Florentino Nieto for position 15.
+00:02:49 - Overtake! Tony PuF overtook MARK HAMILTON for position 18.
+00:02:49 - Overtake! Fraser MacIain overtook Tazzy Jon for position 21.
+00:02:54 - Overtake! MARK HAMILTON overtook Tony PuF for position 17.
+00:02:58 - Overtake! Ian Wally overtook Daniel Born for position 22.
+00:02:58 - Accident involving: Florentino Nieto, Daniel Born
+00:03:02 - Overtake! Florentino Nieto overtook Isak Reite for position 15.
+00:03:06 - Overtake! Isak Reite overtook Florentino Nieto for position 15.
+00:03:10 - Overtake! Florentino Nieto overtook Isak Reite for position 15.
+00:03:10 - Overtake! Carlos Costa overtook Daniel Born for position 22.
+00:03:10 - Overtake! Daniel Reite overtook MARK HAMILTON for position 27.
+00:03:14 - Overtake! MARK HAMILTON overtook Tony PuF for position 17.
+00:03:14 - Accident involving: Florentino Nieto
+00:03:14 - Accident involving: Isak Reite
+00:04:00 - Current positions: (P1) Gordon Hazak, (P2) Jim Burton, (P3) Carlos Castillo, (P4) Lance Vance, (P5) Ivo Hoedjes, (P6) Michel Papyfido | NRT, (P7) Andrea Cutazzo, (P8) Roberto Gurino, (P9) Stanley Westerveld, (P10) Christian Wagner, (P11) Paul Da Numpty, (P12) David Davies, (P13) Mark Warmington, (P14) Thomas Richter | SC, (P15) Florentino Nieto, (P16) Isak Reite, (P17) MARK HAMILTON, (P18) Tony PuF, (P19) Claudiao Oliver, (P20) Fraser MacIain, (P21) Tazzy Jon, (P22) Ian Wally, (P23) Carlos Costa, (P24) Daniel Born, (P25) Riccardo Pasquini, (P26) Rainer Caspers, (P27) Flavio Pampin, (P28) Daniel Reite
+00:04:22 - Overtake! MARK HAMILTON overtook Isak Reite for position 16.
+00:04:22 - Overtake! Fraser MacIain overtook Claudiao Oliver for position 19.
+00:04:26 - Overtake! Claudiao Oliver overtook Fraser MacIain for position 19.
+00:04:26 - Accident involving: Fraser MacIain, Claudiao Oliver
+00:04:30 - Overtake! Isak Reite overtook MARK HAMILTON for position 16.
+00:04:30 - Overtake! Tazzy Jon overtook Fraser MacIain for position 20.
+00:04:34 - Overtake! MARK HAMILTON overtook Isak Reite for position 16.
+00:04:41 - Overtake! Fraser MacIain overtook Tazzy Jon for position 20.
+00:04:41 - Accident involving: Tazzy Jon, Fraser MacIain
+00:05:46 - Overtake! Tony PuF overtook Isak Reite for position 17.
+00:06:01 - Overtake! Thomas Richter | SC overtook David Davies for position 13.
+00:06:01 - Accident involving: David Davies
+00:06:06 - Accident involving: Mark Warmington
+00:06:22 - Overtake! Thomas Richter | SC overtook Mark Warmington for position 12.
+00:06:25 - Overtake! David Davies overtook Mark Warmington for position 13.
+00:06:25 - Overtake! Tazzy Jon overtook Fraser MacIain for position 20.
+00:06:42 - Overtake! Florentino Nieto overtook Mark Warmington for position 14.
+00:06:46 - Overtake! Roberto Gurino overtook Andrea Cutazzo for position 7.
+00:06:50 - Overtake! Andrea Cutazzo overtook Roberto Gurino for position 7.
+00:07:14 - Overtake! Paul Da Numpty overtook Christian Wagner for position 10.
+00:07:22 - Overtake! Daniel Reite overtook Carlos Castillo for position 27.
+00:07:25 - Overtake! Carlos Castillo overtook Lance Vance for position 3.
+00:07:25 - Overtake! Riccardo Pasquini overtook Daniel Born for position 23.
+00:07:29 - Overtake! Michel Papyfido | NRT overtook Andrea Cutazzo for position 6.
+00:08:00 - Current positions: (P1) Gordon Hazak, (P2) Jim Burton, (P3) Carlos Castillo, (P4) Lance Vance, (P5) Ivo Hoedjes, (P6) Michel Papyfido | NRT, (P7) Andrea Cutazzo, (P8) Roberto Gurino, (P9) Stanley Westerveld, (P10) Paul Da Numpty, (P11) Christian Wagner, (P12) Thomas Richter | SC, (P13) David Davies, (P14) Florentino Nieto, (P15) Mark Warmington, (P16) MARK HAMILTON, (P17) Tony PuF, (P18) Isak Reite, (P19) Claudiao Oliver, (P20) Tazzy Jon, (P21) Fraser MacIain, (P22) Ian Wally, (P23) Carlos Costa, (P24) Riccardo Pasquini, (P25) Daniel Born, (P26) Rainer Caspers, (P27) Flavio Pampin, (P28) Daniel Reite
+00:08:50 - Overtake! Daniel Reite overtook Carlos Castillo for position 27.
+00:08:53 - Overtake! Carlos Castillo overtook Lance Vance for position 3.
+00:08:58 - Overtake! Paul Da Numpty overtook Roberto Gurino for position 9.
+00:08:58 - Overtake! Riccardo Pasquini overtook Carlos Costa for position 23.
+00:10:06 - Overtake! Claudiao Oliver overtook Isak Reite for position 18.
+00:10:14 - Overtake! Florentino Nieto overtook David Davies for position 13.
+00:10:14 - Overtake! Fraser MacIain overtook Isak Reite for position 20.
+00:10:18 - Overtake! Fraser MacIain overtook Tazzy Jon for position 18.
+00:10:18 - Overtake! Daniel Reite overtook Lance Vance for position 27.
+00:10:22 - Overtake! Lance Vance overtook Ivo Hoedjes for position 4.
+00:10:25 - Overtake! Riccardo Pasquini overtook Ian Wally for position 22.
+00:10:26 - Accident involving: Claudiao Oliver
+00:10:30 - Overtake! Carlos Costa overtook Ian Wally for position 23.
+00:10:38 - Overtake! Daniel Reite overtook Tazzy Jon for position 27.
+00:10:38 - Accident involving: Daniel Born, Ian Wally
+00:10:46 - Overtake! Tazzy Jon overtook Fraser MacIain for position 19.
+00:10:50 - Overtake! Ian Wally overtook Daniel Born for position 24.
+00:10:53 - Overtake! Isak Reite overtook Claudiao Oliver for position 19.
+00:10:58 - Overtake! Isak Reite overtook Tazzy Jon for position 18.
+00:10:58 - Overtake! Daniel Born overtook Ian Wally for position 23.
+00:10:58 - Overtake! Rainer Caspers overtook Fraser MacIain for position 25.
+00:11:02 - Overtake! Flavio Pampin overtook Ian Wally for position 24.
+00:11:02 - Overtake! Daniel Reite overtook Fraser MacIain for position 26.
+00:11:06 - Overtake! Tazzy Jon overtook Carlos Costa for position 21.
+00:11:10 - Overtake! Roberto Gurino overtook Paul Da Numpty for position 9.
+00:11:14 - Overtake! Mark Warmington overtook David Davies for position 14.
+00:11:17 - Overtake! Tony PuF overtook David Davies for position 16.
+00:11:42 - Overtake! Flavio Pampin overtook Rainer Caspers for position 24.
+00:11:45 - Overtake! Claudiao Oliver overtook Isak Reite for position 17.
+00:11:50 - Overtake! Rainer Caspers overtook David Davies for position 24.
+00:11:53 - David Davies has entered the pits.
+00:11:58 - Overtake! Riccardo Pasquini overtook Isak Reite for position 18.
+00:11:58 - Overtake! Daniel Born overtook Carlos Costa for position 21.
+00:12:00 - Current positions: (P1) Gordon Hazak, (P2) Jim Burton, (P3) Carlos Castillo, (P4) Lance Vance, (P5) Ivo Hoedjes, (P6) Michel Papyfido | NRT, (P7) Andrea Cutazzo, (P8) Stanley Westerveld, (P9) Roberto Gurino, (P10) Paul Da Numpty, (P11) Christian Wagner, (P12) Thomas Richter | SC, (P13) Florentino Nieto, (P14) Mark Warmington, (P15) MARK HAMILTON, (P16) Tony PuF, (P17) Claudiao Oliver, (P18) Riccardo Pasquini, (P19) Tazzy Jon, (P20) Daniel Born, (P21) Isak Reite, (P22) Carlos Costa, (P23) Flavio Pampin, (P24) Rainer Caspers, (P25) Daniel Reite, (P26) Ian Wally, (P27) Fraser MacIain, (P28) David Davies
+00:12:02 - Overtake! Rainer Caspers overtook Isak Reite for position 23.
+00:12:02 - Accident involving: Isak Reite
+00:12:06 - Overtake! Flavio Pampin overtook Carlos Costa for position 20.
+00:12:06 - Overtake! Ian Wally overtook Isak Reite for position 24.
+00:12:06 - Accident involving: Daniel Born, Carlos Costa
+00:12:10 - Overtake! Isak Reite overtook Ian Wally for position 24.
+00:12:10 - Accident involving: Rainer Caspers, Daniel Reite
+00:12:14 - Overtake! Fraser MacIain overtook Daniel Born for position 26.
+00:12:14 - Accident involving: Isak Reite, Ian Wally
+00:12:26 - Overtake! Isak Reite overtook Ian Wally for position 24.
+00:13:06 - Overtake! Riccardo Pasquini overtook Claudiao Oliver for position 17.
+00:13:09 - Overtake! Flavio Pampin overtook Claudiao Oliver for position 19.
+00:13:14 - Overtake! Rainer Caspers overtook Carlos Costa for position 19.
+00:13:14 - Overtake! Carlos Costa overtook Claudiao Oliver for position 20.
+00:13:14 - Overtake! Daniel Born overtook Carlos Castillo for position 26.
+00:13:18 - Overtake! Carlos Castillo overtook Lance Vance for position 3.
+00:13:18 - Overtake! Daniel Reite overtook Claudiao Oliver for position 21.
+00:13:22 - Overtake! Fraser MacIain overtook Carlos Costa for position 25.
+00:13:26 - Overtake! Daniel Born overtook Carlos Costa for position 26.
+00:13:34 - Overtake! Carlos Costa overtook Daniel Born for position 26.
+00:13:38 - Overtake! Daniel Born overtook Carlos Costa for position 26.
+00:13:50 - Overtake! Carlos Costa overtook Claudiao Oliver for position 26.
+00:13:54 - Overtake! Claudiao Oliver overtook Isak Reite for position 22.
+00:14:10 - Overtake! Carlos Costa overtook Ian Wally for position 26.
+00:14:14 - Accident involving: Ian Wally
+00:15:18 - Overtake! Ian Wally overtook Daniel Reite for position 26.
+00:15:22 - Overtake! Daniel Reite overtook Claudiao Oliver for position 21.
+00:15:30 - Overtake! Tazzy Jon overtook Riccardo Pasquini for position 17.
+00:15:34 - Overtake! Christian Wagner overtook Paul Da Numpty for position 10.
+00:15:54 - Overtake! Lance Vance overtook Carlos Castillo for position 3.
+00:16:00 - Current positions: (P1) Gordon Hazak, (P2) Jim Burton, (P3) Lance Vance, (P4) Carlos Castillo, (P5) Ivo Hoedjes, (P6) Michel Papyfido | NRT, (P7) Andrea Cutazzo, (P8) Stanley Westerveld, (P9) Roberto Gurino, (P10) Christian Wagner, (P11) Thomas Richter | SC, (P12) Paul Da Numpty, (P13) Florentino Nieto, (P14) Mark Warmington, (P15) MARK HAMILTON, (P16) Tony PuF, (P17) Tazzy Jon, (P18) Riccardo Pasquini, (P19) Flavio Pampin, (P20) Rainer Caspers, (P21) Daniel Reite, (P22) Claudiao Oliver, (P23) Isak Reite, (P24) Fraser MacIain, (P25) Daniel Born, (P26) Carlos Costa, (P27) Ian Wally, (P28) David Davies
+00:16:02 - Overtake! Thomas Richter | SC overtook Paul Da Numpty for position 11.
+00:16:06 - Overtake! Paul Da Numpty overtook Thomas Richter | SC for position 11.
+00:16:10 - Overtake! Mark Warmington overtook Florentino Nieto for position 13.
+00:16:18 - Overtake! Florentino Nieto overtook Mark Warmington for position 13.
+00:16:38 - Overtake! Mark Warmington overtook Florentino Nieto for position 13.
+00:16:46 - Overtake! MARK HAMILTON overtook Florentino Nieto for position 14.
+00:16:46 - Overtake! Flavio Pampin overtook Riccardo Pasquini for position 18.
+00:16:54 - Overtake! Riccardo Pasquini overtook Flavio Pampin for position 18.
+00:17:22 - Overtake! Andrea Cutazzo overtook Michel Papyfido | NRT for position 6.
+00:17:30 - Overtake! Thomas Richter | SC overtook Paul Da Numpty for position 11.
+00:18:22 - Overtake! Ian Wally overtook Carlos Costa for position 26.
+00:18:26 - Overtake! Carlos Costa overtook Ian Wally for position 26.
+00:18:30 - Overtake! Stanley Westerveld overtook Michel Papyfido | NRT for position 7.
+00:18:38 - Overtake! Claudiao Oliver overtook Daniel Reite for position 21.
+00:18:58 - Overtake! Roberto Gurino overtook Michel Papyfido | NRT for position 8.
+00:19:30 - Overtake! Isak Reite overtook Daniel Reite for position 22.
+00:19:34 - Overtake! Fraser MacIain overtook Daniel Reite for position 23.
+00:19:38 - Overtake! Ivo Hoedjes overtook Carlos Castillo for position 4.
+00:19:42 - Overtake! Carlos Castillo overtook Ivo Hoedjes for position 4.
+00:19:46 - Overtake! Daniel Reite overtook Fraser MacIain for position 23.
+00:19:46 - Accident involving: Fraser MacIain, Daniel Reite
+00:20:00 - Ian Wally has entered the pits.
+00:20:01 - Current positions: (P1) Gordon Hazak, (P2) Jim Burton, (P3) Lance Vance, (P4) Carlos Castillo, (P5) Ivo Hoedjes, (P6) Andrea Cutazzo, (P7) Stanley Westerveld, (P8) Roberto Gurino, (P9) Michel Papyfido | NRT, (P10) Christian Wagner, (P11) Thomas Richter | SC, (P12) Paul Da Numpty, (P13) Mark Warmington, (P14) MARK HAMILTON, (P15) Florentino Nieto, (P16) Tony PuF, (P17) Tazzy Jon, (P18) Riccardo Pasquini, (P19) Flavio Pampin, (P20) Rainer Caspers, (P21) Claudiao Oliver, (P22) Isak Reite, (P23) Daniel Reite, (P24) Fraser MacIain, (P25) Daniel Born, (P26) Carlos Costa, (P27) Ian Wally, (P28) David Davies
+00:20:22 - Overtake! Ivo Hoedjes overtook Carlos Castillo for position 4.
+00:20:23 - Ian Wally has exited the pits.
+00:20:30 - Overtake! Daniel Born overtook Daniel Reite for position 24.
+00:20:30 - Accident involving: Daniel Reite, Fraser MacIain
+00:20:34 - Overtake! Carlos Costa overtook Daniel Reite for position 25.
+00:20:38 - Overtake! Ian Wally overtook Daniel Reite for position 26.
+00:20:38 - Accident involving: Daniel Reite, Carlos Costa
+00:20:38 - Daniel Reite has entered the pits.
+00:20:54 - Overtake! Paul Da Numpty overtook Mark Warmington for position 12.
+00:21:18 - Overtake! Fraser MacIain overtook Isak Reite for position 22.
+00:21:22 - Accident involving: Fraser MacIain
+00:23:06 - Overtake! Stanley Westerveld overtook Andrea Cutazzo for position 6.
+00:23:14 - Overtake! Roberto Gurino overtook Andrea Cutazzo for position 7.
+00:23:22 - Overtake! Andrea Cutazzo overtook Roberto Gurino for position 7.
+00:23:34 - Overtake! Roberto Gurino overtook Andrea Cutazzo for position 7.
+00:24:01 - Current positions: (P1) Gordon Hazak, (P2) Jim Burton, (P3) Lance Vance, (P4) Ivo Hoedjes, (P5) Carlos Castillo, (P6) Stanley Westerveld, (P7) Roberto Gurino, (P8) Andrea Cutazzo, (P9) Michel Papyfido | NRT, (P10) Christian Wagner, (P11) Thomas Richter | SC, (P12) Paul Da Numpty, (P13) Mark Warmington, (P14) MARK HAMILTON, (P15) Florentino Nieto, (P16) Tony PuF, (P17) Tazzy Jon, (P18) Riccardo Pasquini, (P19) Flavio Pampin, (P20) Rainer Caspers, (P21) Claudiao Oliver, (P22) Fraser MacIain, (P23) Isak Reite, (P24) Daniel Born, (P25) Carlos Costa, (P26) Ian Wally, (P27) Daniel Reite, (P28) David Davies
+00:24:10 - Overtake! Ian Wally overtook Rainer Caspers for position 25.
+00:24:14 - Overtake! Rainer Caspers overtook Claudiao Oliver for position 20.
+00:25:00 - Leader is on final lap
+00:25:02 - Overtake! Tony PuF overtook Florentino Nieto for position 15.
+00:25:06 - Overtake! Florentino Nieto overtook Tony PuF for position 15.
+00:25:06 - Overtake! Daniel Born overtook Isak Reite for position 23.
+00:25:10 - Overtake! Isak Reite overtook Daniel Born for position 23.
+00:25:22 - Overtake! Daniel Born overtook Isak Reite for position 23.
+00:25:38 - Overtake! Ian Wally overtook Flavio Pampin for position 25.
+00:25:42 - Overtake! Flavio Pampin overtook Rainer Caspers for position 19.
+00:25:46 - Overtake! Flavio Pampin overtook Riccardo Pasquini for position 18.
+00:25:46 - Overtake! Ian Wally overtook Fraser MacIain for position 25.
+00:25:50 - Overtake! Rainer Caspers overtook Riccardo Pasquini for position 19.
+00:25:50 - Overtake! Fraser MacIain overtook Daniel Born for position 22.
+00:26:20 - Checkered flag! Gordon Hazak takes the win!
+00:26:20 - Gordon Hazak has finished in position 1.
+00:26:20 - Jim Burton has finished in position 2.
+00:26:20 - Lance Vance has finished in position 3.
+00:26:20 - Ivo Hoedjes has finished in position 4.
+00:26:20 - Carlos Castillo has finished in position 5.
+00:26:20 - Stanley Westerveld has finished in position 6.
+00:26:20 - Roberto Gurino has finished in position 7.
+00:26:20 - Andrea Cutazzo has finished in position 8.
+00:26:20 - Michel Papyfido | NRT has finished in position 9.
+00:26:20 - Christian Wagner has finished in position 10.
+00:26:20 - Thomas Richter | SC has finished in position 11.
+00:26:20 - Paul Da Numpty has finished in position 12.
+00:26:20 - Mark Warmington has finished in position 13.
+00:26:20 - MARK HAMILTON has finished in position 14.
+00:26:20 - Florentino Nieto has finished in position 15.
+00:26:20 - Tony PuF has finished in position 16.
+00:26:20 - Tazzy Jon has finished in position 17.
+00:26:20 - Flavio Pampin has finished in position 18.
+00:26:20 - Rainer Caspers has finished in position 19.
+00:26:20 - Riccardo Pasquini has finished in position 20.
+00:26:20 - Claudiao Oliver has finished in position 21.
+00:26:20 - Fraser MacIain has finished in position 22.
+00:26:20 - Daniel Born has finished in position 23.
+00:26:20 - Isak Reite has finished in position 24.
+00:26:20 - Carlos Costa has finished in position 25.
+00:26:20 - Ian Wally has finished in position 26.
+00:26:20 - Daniel Reite has finished in position 27.
+00:26:20 - David Davies has finished in position 28.
